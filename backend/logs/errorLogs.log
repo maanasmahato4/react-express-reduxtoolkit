@@ -1,0 +1,25 @@
+1697997675891	ba840710-73b4-482a-a4a1-270d92c6bd55	undefined	/	POST	TypeError: Cannot destructure property 'title' of 'req.body' as it is undefined.
+1697997677423	be5c2436-75c3-44bd-a594-a52faa0fb1bf	undefined	/	POST	TypeError: Cannot destructure property 'title' of 'req.body' as it is undefined.
+1697997693778	8c10da57-8874-4430-a44a-400a49ee18ae	undefined	/	POST	TypeError: Cannot destructure property 'title' of 'req.body' as it is undefined.
+1697997729990	537f40e9-920d-4642-a900-841ab0e79a58	undefined	/	POST	TypeError: Cannot destructure property 'title' of 'req.body' as it is undefined.
+1697997772007	4cacf6ce-531a-409a-90cb-82559a4bc301	undefined	/	POST	Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+1697997773422	eb4e7e3e-ff2c-4000-9e7b-9217f6ff8428	undefined	/	POST	Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+1697997846723	afc0f07c-b982-40b1-b39f-85a4058dff31	undefined	/	POST	Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+1697997948749	5987bbdd-7fa7-4bd4-ae33-a6b6d0f6f66d	undefined	/	POST	Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+1697997977743	786ee4c7-42f8-4201-bb29-020dcea4af0b	undefined	/	POST	Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+1697998383342	c944052b-ae43-42f9-8aa3-06557635403c	undefined	/api/653564bf8d8d8bdc50c2c7b3	GET	Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+1697998399445	a10a4c23-7c57-4fee-ba5b-2ce76fbefd63	undefined	/api/653564bf8d8d8bdc50c2c7b3	GET	Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+1697998413305	8ca50985-181b-4a01-8e56-e3b714b84c0a	undefined	/api/653564bf8d8d8bdc50c2c7b3	GET	Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+1697998800646	41748ba1-7202-40a6-b2bf-6750e7d6192f	undefined	/api/653564bf8d8d8bdc50c2c7b3	GET	Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+1697998818896	74d8b1ee-8d01-41ba-8753-9d1e0bdd2504	undefined	/api/653564bf8d8d8bdc50c2c7b3	GET	Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+1698254400588	f1bf3cb5-0589-4953-9454-1d86e6787849	http://localhost:5173	/api/	OPTIONS	RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: true
+1698254419675	aa538e80-34f6-4926-8171-177262f10df1	http://localhost:5173	/api/	OPTIONS	RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: true
+1698254433411	569cbf77-de22-4110-a814-f8d8820d2a72	http://localhost:5173	/api/	OPTIONS	RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: true
+1698254652833	951ac37f-1540-4ac3-8570-987ae7ed2463	http://localhost:5173	/api/	OPTIONS	RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: true
+1698254893880	e88afce4-6b07-405f-b3e9-00adc802295c	http://localhost:5173	/api/	OPTIONS	RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: true
+1698254958758	22ebaa4e-46aa-4cb0-981c-014f66eff737	http://localhost:5173	/api/	OPTIONS	RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: true
+1698260390565	119c97c1-150e-4597-9782-8bc4f6d2ec86	http://localhost:5173	/api/undefined	PUT	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "article"
+1698260429015	b260129b-3f2d-4ba4-94ed-5984fd84cf51	http://localhost:5173	/api/undefined	PUT	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "article"
+1698260461574	6bcd4b06-4047-42d0-81a9-2a2b475fbc9f	http://localhost:5173	/api/undefined	PUT	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "article"
+1698261106214	e935a255-4839-4ff7-93d3-1916e327cb04	http://localhost:5173	/api/653563cb2dce788be6a426b9	PUT	CastError: Cast to Boolean failed for value "" (type string) at path "isVerified" because of "CastError"
+1698261126047	37e2aeb0-da70-47ef-94b3-78eae7c80a31	http://localhost:5173	/api/undefined	PUT	CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "article"
